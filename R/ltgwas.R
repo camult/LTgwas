@@ -17,7 +17,7 @@
 #' 
 #' @examples
 #'
-#' # GWAS <- ltgwas(file = "filename,
+#' # GWAS <- ltgwas(file = "filename",
 #' #                varG=10,
 #' #                varE=20,
 #' #                gebv=gebv)
