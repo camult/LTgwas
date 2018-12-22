@@ -29,6 +29,11 @@ Standardized test of association where genomic breeding values from a mixed mode
 #                gebv=gebv)
 
 }
+\references{
+VanRaden, Paul M. Efficient methods to compute genomic predictions. Journal of dairy science 91.11 (2008): 4414-4423.
+
+Gualdron Duarte JL, Cantet RJ, Bates RO, Ernst CW, Raney NE, Steibel JP. Rapid screening for phenotype-genotype associations by linear transformations of genomic evaluations. BMC Bioinformatics (2014). 19;15:246. doi: 10.1186/1471-2105-15-246.
+}
 \author{
 Fernando Brito Lopes
 }
