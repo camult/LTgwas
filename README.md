@@ -25,7 +25,7 @@ Argument      |Description
 ## Value
 
 
- Returns SNP effects and SNP variance
+ Returns SNP effects, SNP variance and p-values using t test, Z score and Wald test.
 
 
 ## Author
@@ -46,7 +46,7 @@ Argument      |Description
 
 ```r 
  
- # GWAS <- ltgwas(file = "filename,
+ # GWAS <- ltgwas(file = "filename",
  #                varG=10,
  #                varE=20,
  #                gebv=gebv)

@@ -7,7 +7,7 @@
 #' @param varE residual variance
 #' @param gebv genomic estimated breeding value
 #' 
-#' @return Returns SNP effects and SNP variance
+#' @return Returns SNP effects, SNP variance and p-values using t test, Z score and Wald test.
 #' 
 #' @author Fernando Brito Lopes
 #' 

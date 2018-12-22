@@ -23,7 +23,7 @@ Standardized test of association where genomic breeding values from a mixed mode
 }
 \examples{
 
-# GWAS <- ltgwas(file = "filename,
+# GWAS <- ltgwas(file = "filename"
 #                varG=10,
 #                varE=20,
 #                gebv=gebv)
