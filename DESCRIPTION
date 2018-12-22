@@ -1,0 +1,11 @@
+Package: LTgwas
+Type: Package
+Title: Association Teste using Linear Transformation of Genomic Evaluations
+Version: 1.0.0
+Date: 2018-12-18
+Author: Fernando Brito Lopes <camult@gmail.com>
+Maintainer: Fernando Brito Lopes <camult@gmail.com>
+Description: Standardized test of association where genomic breeding values from a mixed model including fixed effects and a genomic information are linearly transformed to estimate marker effects and pvalues.
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 6.1.0
